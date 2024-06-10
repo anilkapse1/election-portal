@@ -15,14 +15,16 @@ const App = () => {
   const [participants, setParticipants] = useState([]);
   const [searchMember, setSearchMember] = useState<string>("");
 
-  const handleChange = (newValue: any) => {
+  const handleChange = (event: React.SyntheticEvent, newValue: any) => {
+    const target = event.target as HTMLInputElement;
+    console.log(target.value);
     setTabValue(newValue);
   };
 
   useEffect(() => {
     const fetchParticipants = async () => {
       try {
-        const response = await axios.get("./list/participants.json");
+        const response = await axios.get("/election-portal/list/participants.json");
         setParticipants(response.data);
       } catch (error) {
         console.log(error);

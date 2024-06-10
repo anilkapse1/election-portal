@@ -3,8 +3,6 @@ import { Box, Dialog, DialogContent, DialogTitle, IconButton, Typography } from 
 import React from "react";
 
 const PreviewForm = (props: any) => {
-  console.log("preview form");
-  console.log(props);
   // PROPS
   const { data } = props;
 

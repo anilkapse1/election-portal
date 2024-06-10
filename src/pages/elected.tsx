@@ -11,7 +11,9 @@ const ElectedMember = (props: any) => {
   // FETCH ELECTED MEMBERS
   useEffect(() => {
     const result = participants.filter((val: any) => val.isElected === true);
-    setElectedMember(result);
+    if (result.length > 0) {
+      setElectedMember(result);
+    }
   }, [participants]);
 
   return (

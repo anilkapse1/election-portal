@@ -103,9 +103,6 @@ const GridList = (props: any) => {
     }
   }, [searchMember]);
 
-  console.log("grid data");
-  console.log(searchMember);
-
   return (
     <div>
       <Box className="ag-theme-alpine list-container" sx={{ paddingTop: 2 }}>
