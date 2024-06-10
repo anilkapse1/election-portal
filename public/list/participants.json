@@ -8,7 +8,7 @@
     "contact": "9913908884",
     "dob": "01/10/1980",
     "member_since": "2018",
-    "participant_letter": "../election-portal/src/assets/images/ashok_b_rohit.jpg",
+    "participant_letter": "/assets/images/arvind_m_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -21,7 +21,7 @@
     "contact": "9824163452",
     "dob": "20/06/1967",
     "member_since": "2007",
-    "participant_letter": "/election-portal/src/assets/images/bharat_b_rohit.jpg",
+    "participant_letter": "/assets/images/bharat_b_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -34,7 +34,7 @@
     "contact": "9727750471",
     "dob": "01/06/1961",
     "member_since": "2024",
-    "participant_letter": "/election-portal/src/assets/images/ishwar_r_rohit.jpg",
+    "participant_letter": "/assets/images/ishwar_r_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -47,7 +47,7 @@
     "contact": "9879657516",
     "dob": "08/07/1977",
     "member_since": "2024",
-    "participant_letter": "/election-portal/src/assets/images/navin_c_rohit.jpg",
+    "participant_letter": "/assets/images/navin_c_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -60,7 +60,7 @@
     "contact": "9824177506",
     "dob": "05/08/1972",
     "member_since": "2017",
-    "participant_letter": "/election-portal/src/assets/images/ramesh_c_rohit.jpg",
+    "participant_letter": "/assets/images/ramesh_c_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -73,7 +73,7 @@
     "contact": "9723602108",
     "dob": "01/01/1977",
     "member_since": "2018",
-    "participant_letter": "/election-portal/src/assets/images/ramesh_n_rohit.jpg",
+    "participant_letter": "/assets/images/ramesh_n_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -86,7 +86,7 @@
     "contact": "9724700611",
     "dob": "27/03/1985",
     "member_since": "2018",
-    "participant_letter": "/election-portal/src/assets/images/virendra_d_rohit.jpg",
+    "participant_letter": "/assets/images/virendra_d_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -99,7 +99,7 @@
     "contact": "9909994964",
     "dob": "04/06/1987",
     "member_since": "2019",
-    "participant_letter": "/election-portal/src/assets/images/mehul_p_godkar.jfif",
+    "participant_letter": "/assets/images/mehul_p_godkar.jfif",
     "isElected": false,
     "role": ""
   },
@@ -112,7 +112,7 @@
     "contact": "9824477506",
     "dob": "02/06/1970",
     "member_since": "-",
-    "participant_letter": "/election-portal/src/assets/images/kanku_r_rohit.jfif",
+    "participant_letter": "/assets/images/kanku_r_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -125,7 +125,7 @@
     "contact": "987981756",
     "dob": "24/01/1978",
     "member_since": "2021",
-    "participant_letter": "/election-portal/src/assets/images/jagdip_s_rohit.jfif",
+    "participant_letter": "/assets/images/jagdip_s_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -138,7 +138,7 @@
     "contact": "9925550379",
     "dob": "09/08/1987",
     "member_since": "2019",
-    "participant_letter": "/election-portal/src/assets/images/kanu_i_rohit.jfif",
+    "participant_letter": "/assets/images/kanu_i_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -151,7 +151,7 @@
     "contact": "9998962638",
     "dob": "08/09/1979",
     "member_since": "2003",
-    "participant_letter": "/election-portal/src/assets/images/ganesh_s_rohit.png",
+    "participant_letter": "/assets/images/ganesh_s_rohit.png",
     "isElected": false,
     "role": ""
   },
@@ -164,7 +164,7 @@
     "contact": "9978186041",
     "dob": "12/02/1982",
     "member_since": "2009",
-    "participant_letter": "/election-portal/src/assets/images/mahesh_d_rohit.png",
+    "participant_letter": "/assets/images/mahesh_d_rohit.png",
     "isElected": false,
     "role": ""
   },
@@ -177,7 +177,7 @@
     "contact": "9724393957",
     "dob": "21/01/1980",
     "member_since": "2022",
-    "participant_letter": "/election-portal/src/assets/images/suresh_r_rohit.jfif",
+    "participant_letter": "/assets/images/suresh_r_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -190,7 +190,7 @@
     "contact": "9824021433",
     "dob": "01/03/1972",
     "member_since": "2024",
-    "participant_letter": "/election-portal/src/assets/images/suresh_b_rohit.png",
+    "participant_letter": "/assets/images/suresh_b_rohit.png",
     "isElected": false,
     "role": ""
   },
@@ -203,7 +203,7 @@
     "contact": "9723171586",
     "dob": "01/06/1971",
     "member_since": "2019",
-    "participant_letter": "/election-portal/src/assets/images/manu_b_rohit.jfif",
+    "participant_letter": "/assets/images/manu_b_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -216,7 +216,7 @@
     "contact": "9723606100",
     "dob": "02/08/1982",
     "member_since": "2017",
-    "participant_letter": "/election-portal/src/assets/images/vijay_m_rohit.jfif",
+    "participant_letter": "/assets/images/vijay_m_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -229,7 +229,7 @@
     "contact": "9724322604",
     "dob": "30/04/1965",
     "member_since": "2017",
-    "participant_letter": "/election-portal/src/assets/images/dineshchandra_m_rohit.jfif",
+    "participant_letter": "/assets/images/dineshchandra_m_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -242,7 +242,7 @@
     "contact": "9898152794",
     "dob": "07/07/1978",
     "member_since": "-",
-    "participant_letter": "/election-portal/src/assets/images/ashok_c_rohit.jfif",
+    "participant_letter": "/assets/images/ashok_c_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -255,7 +255,7 @@
     "contact": "9909894406",
     "dob": "12/08/1988",
     "member_since": "2024",
-    "participant_letter": "/election-portal/src/assets/images/hashmukh_d_rohit.jfif",
+    "participant_letter": "/assets/images/hashmukh_d_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -268,7 +268,7 @@
     "contact": "9978998239",
     "dob": "21/07/1979",
     "member_since": "2024",
-    "participant_letter": "/election-portal/src/assets/images/hashmukh_r_patel.jfif",
+    "participant_letter": "/assets/images/hashmukh_r_patel.jfif",
     "isElected": false,
     "role": ""
   },
@@ -281,7 +281,7 @@
     "contact": "9879121228",
     "dob": "21/07/1979",
     "member_since": "2019",
-    "participant_letter": "/election-portal/src/assets/images/sunil_u_rohit.jfif",
+    "participant_letter": "/assets/images/sunil_u_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -294,7 +294,7 @@
     "contact": "985394382",
     "dob": "13/03/1974",
     "member_since": "-",
-    "participant_letter": "/election-portal/src/assets/images/jagu_m_rohit.jfif",
+    "participant_letter": "/assets/images/jagu_m_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -307,7 +307,7 @@
     "contact": "9979860072",
     "dob": "05/08/1979",
     "member_since": "2021",
-    "participant_letter": "/election-portal/src/assets/images/naresh_j_rohit.jfif",
+    "participant_letter": "/assets/images/naresh_j_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -320,7 +320,7 @@
     "contact": "7698474533",
     "dob": "19/06/1967",
     "member_since": "2024",
-    "participant_letter": "/election-portal/src/assets/images/babar_k_rohit.jfif",
+    "participant_letter": "/assets/images/babar_k_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -333,7 +333,7 @@
     "contact": "9824356362",
     "dob": "04/06/1967",
     "member_since": "2002",
-    "participant_letter": "/election-portal/src/assets/images/navin_k_rohit.jfif",
+    "participant_letter": "/assets/images/navin_k_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -346,7 +346,7 @@
     "contact": "9327666112",
     "dob": "03/03/1988",
     "member_since": "2017",
-    "participant_letter": "/election-portal/src/assets/images/vijay_b_rohit.png",
+    "participant_letter": "/assets/images/vijay_b_rohit.png",
     "isElected": false,
     "role": ""
   },
@@ -359,7 +359,7 @@
     "contact": "9374442256",
     "dob": "01/06/1976",
     "member_since": "-",
-    "participant_letter": "/election-portal/src/assets/images/arvind_m_rohit.jfif",
+    "participant_letter": "/assets/images/arvind_m_rohit.jfif",
     "isElected": false,
     "role": ""
   },
@@ -372,7 +372,7 @@
     "contact": "9925500808",
     "dob": "01/06/1966",
     "member_since": "-",
-    "participant_letter": "/election-portal/src/assets/images/dinesh_c_rohit.jfif",
+    "participant_letter": "/assets/images/dinesh_c_rohit.jfif",
     "isElected": false,
     "role": ""
   }

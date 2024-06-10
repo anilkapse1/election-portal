@@ -9,6 +9,7 @@ const PreviewForm = (props: any) => {
   //STATE DECLARATION
   const [open, setOpen] = React.useState(props.open);
   const formPic = data.participant_letter;
+  const imagePath = `/election-portal${formPic}`
 
   const handleClose = () => {
     setOpen(false);
@@ -48,7 +49,7 @@ const PreviewForm = (props: any) => {
         </DialogTitle>
         <DialogContent>
           <Box sx={{ width: "100%" }}>
-            <img src={formPic} style={{ width: "100%" }} />
+            <img src={imagePath} style={{ width: "100%" }} />
           </Box>
         </DialogContent>
       </Dialog>
