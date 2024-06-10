@@ -8,7 +8,7 @@
     "contact": "9913908884",
     "dob": "01/10/1980",
     "member_since": "2018",
-    "participant_letter": "/election-portal/src/assets/images/ashok_b_rohit.jpg",
+    "participant_letter": "../election-portal/src/assets/images/ashok_b_rohit.jpg",
     "isElected": false,
     "role": ""
   },
