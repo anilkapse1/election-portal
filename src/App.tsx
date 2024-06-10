@@ -40,7 +40,7 @@ const App = () => {
         <Typography variant="h3" gutterBottom>
           Welcome To RSST Election Portal - 2024
         </Typography>
-        <Box sx={{ display: "flex", alignItems: "flex-end", width: "500px" }}>
+        <Box sx={{ display: "flex", alignItems: "flex-end" }}>
           <TextField
             fullWidth
             className="search"

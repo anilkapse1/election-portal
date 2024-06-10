@@ -29,7 +29,8 @@ const PreviewForm = (props: any) => {
             <Typography variant="h4">
               Hello, I am <span style={{ textTransform: "capitalize" }}>{data.name}</span>{" "}
               <span style={{ textTransform: "capitalize" }}>{data.middle_name}</span>{" "}
-              <span style={{ textTransform: "capitalize" }}>{data.surname}</span> from <span style={{ textTransform: "capitalize" }}>{data.area}</span>
+              <span style={{ textTransform: "capitalize" }}>{data.surname}</span> from{" "}
+              <span style={{ textTransform: "capitalize" }}>{data.area}</span>
             </Typography>
             <IconButton
               aria-label="close"

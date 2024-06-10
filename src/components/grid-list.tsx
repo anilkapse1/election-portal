@@ -19,15 +19,15 @@ const GridList = (props: any) => {
     resizable: false,
     filter: false,
     wrapText: true,
-    autoHeight: true,
+    // autoHeight: true,
     cellStyle: { textTransform: "capitalize" },
-    flex: 1,
+    // flex: 1,
   };
 
   // GRID OPTION
   const gridOptionsList = {
     getRowHeight: () => 45,
-};
+  };
 
   // ON GRID
   const onListGridReady = (params: any) => {
@@ -46,14 +46,9 @@ const GridList = (props: any) => {
   //DEFINE COLUMN DEFS FOR LIST
   const listColumnDefs = () => {
     const col = [
-      //   {
-      //     field: "isElected",
-      //     wrapText: true,
-      //     autoHeight: true,
-      //   },
       {
         field: "name",
-        width:300,
+        width: 250,
         valueGetter: (params: any) => `${params.data.name} ${params.data.middle_name} ${params.data.surname}`,
       },
       //   {
@@ -69,20 +64,25 @@ const GridList = (props: any) => {
       //   },
       {
         field: "gender",
+        width: 100,
       },
       {
         field: "area",
+        width: 150,
       },
       {
         field: "dob",
         headerName: "DOB",
+        width: 150,
       },
       {
-        field:"member_since",
+        field: "member_since",
         headerName: "member since",
+        width: 150,
       },
       {
         field: "contact",
+        width: 150,
       },
       {
         field: "",
@@ -90,6 +90,7 @@ const GridList = (props: any) => {
         cellRenderer: (param: any) => {
           return <PreviewActions params={param} />;
         },
+        flexBasis:100
       },
     ];
 
@@ -117,7 +118,6 @@ const GridList = (props: any) => {
             domLayout="autoHeight"
             overlayLoadingTemplate="loading data"
             overlayNoRowsTemplate="no record found"
-
           />
         )}
       </Box>
