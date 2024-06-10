@@ -1,4 +1,4 @@
-import { AccountCircle, Clear, Search } from "@mui/icons-material";
+import { Clear, Search } from "@mui/icons-material";
 import { TabContext, TabList, TabPanel } from "@mui/lab";
 import { Box, IconButton, InputAdornment, Tab, TextField, Typography } from "@mui/material";
 import axios from "axios";
@@ -15,8 +15,7 @@ const App = () => {
   const [participants, setParticipants] = useState([]);
   const [searchMember, setSearchMember] = useState<string>("");
 
-  const handleChange = (event: any, newValue: any) => {
-    console.log(newValue);
+  const handleChange = (newValue: any) => {
     setTabValue(newValue);
   };
 

@@ -1,8 +1,8 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Box from "@mui/material/Box";
 import { AgGridReact } from "ag-grid-react";
 import PreviewActions from "./preview-actions";
-// import PreviewAction from "./render-components/previewAction";
+
 
 const GridList = (props: any) => {
   const gridApiRefList = useRef(null);
@@ -78,7 +78,8 @@ const GridList = (props: any) => {
         headerName: "DOB",
       },
       {
-        field:"member_since"
+        field:"member_since",
+        headerName: "member since",
       },
       {
         field: "contact",
@@ -97,8 +98,8 @@ const GridList = (props: any) => {
 
   // search member
   useEffect(() => {
-    if (gridApiRefList?.current?.setQuickFilter) {
-      gridApiRefList.current.setQuickFilter(searchMember);
+    if (gridApiList) {
+      gridApiList.setQuickFilter(searchMember);
     }
   }, [searchMember]);
 
