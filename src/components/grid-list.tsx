@@ -3,7 +3,6 @@ import Box from "@mui/material/Box";
 import { AgGridReact } from "ag-grid-react";
 import PreviewActions from "./preview-actions";
 
-
 const GridList = (props: any) => {
   const gridApiRefList = useRef(null);
   const { list, searchMember } = props;
@@ -77,7 +76,7 @@ const GridList = (props: any) => {
       },
       {
         field: "member_since",
-        headerName: "member since",
+        headerName: "Member since",
         width: 150,
       },
       {
@@ -86,11 +85,11 @@ const GridList = (props: any) => {
       },
       {
         field: "",
-        headerName: "participants form",
+        headerName: "Participants form",
         cellRenderer: (param: any) => {
           return <PreviewActions params={param} />;
         },
-        flexBasis:100
+        flexBasis: 100,
       },
     ];
 

@@ -375,5 +375,31 @@
     "participant_letter": "/assets/images/dinesh_c_rohit.jfif",
     "isElected": false,
     "role": ""
+  },
+  {
+    "name": "yogesh",
+    "middle_name": "raman",
+    "surname": "rohit",
+    "gender": "male",
+    "area": "naroli",
+    "contact": "8347789992",
+    "dob": "03/03/1978",
+    "member_since": "-",
+    "participant_letter": "/assets/images/yogesh_r_rohit.PNG",
+    "isElected": false,
+    "role": ""
+  },
+  {
+    "name": "prakash",
+    "middle_name": "mohan",
+    "surname": "surve",
+    "gender": "male",
+    "area": "umargam",
+    "contact": "9909953697",
+    "dob": "24/05/1972",
+    "member_since": "2019",
+    "participant_letter": "/assets/images/prakash_m_surve.PNG",
+    "isElected": false,
+    "role": ""
   }
 ]
