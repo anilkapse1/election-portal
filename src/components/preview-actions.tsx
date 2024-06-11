@@ -6,7 +6,7 @@ import VisibilityIcon from "@mui/icons-material/Visibility";
 const PreviewActions = (props: any) => {
   const [openDeletePopup, setOpenDeletePopup] = useState<boolean>(false);
 
-  const handlePopoverOpen = (event: React.MouseEvent<HTMLElement>) => {
+  const handlePopoverOpen = () => {
     setOpenDeletePopup(true);
   };
 
