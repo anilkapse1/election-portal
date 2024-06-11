@@ -401,5 +401,18 @@
     "participant_letter": "/assets/images/prakash_m_surve.PNG",
     "isElected": false,
     "role": ""
+  },
+  {
+    "name": "jitendra",
+    "middle_name": "shukhla",
+    "surname": "rohit",
+    "gender": "male",
+    "area": "nani tambadi",
+    "contact": "9825870507",
+    "dob": "20/09/1980",
+    "member_since": "",
+    "participant_letter": "/assets/images/jitendra_s_rohit.jfif",
+    "isElected": false,
+    "role": ""
   }
 ]
