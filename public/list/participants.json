@@ -10,7 +10,33 @@
     "member_since": "2018",
     "participant_letter": "/assets/images/ashok_b_rohit.jpg",
     "isElected": false,
-    "role": ""
+    "role": " "
+  },
+  {
+    "name": "mahesh",
+    "middle_name": "durlabh",
+    "surname": "rohit",
+    "gender": "male",
+    "area": "sukhesh",
+    "contact": "9978186041",
+    "dob": "01/10/1980",
+    "member_since": "2009",
+    "participant_letter": "/assets/images/mahesh_d_rohit.png",
+    "isElected": false,
+    "role": " "
+  },
+  {
+    "name": "manu",
+    "middle_name": "babar",
+    "surname": "rohit",
+    "gender": "male",
+    "area": "sukhesh",
+    "contact": "9723171586",
+    "dob": "01/06/1971",
+    "member_since": "2019",
+    "participant_letter": "/assets/images/manu_b_rohit.jfif",
+    "isElected": false,
+    "role": " "
   },
   {
     "name": "bharat",
@@ -48,19 +74,6 @@
     "dob": "08/07/1977",
     "member_since": "2018",
     "participant_letter": "/assets/images/navin_c_rohit.jpg",
-    "isElected": false,
-    "role": ""
-  },
-  {
-    "name": "ramesh",
-    "middle_name": "chhagan",
-    "surname": "rohit",
-    "gender": "male",
-    "area": "vaghchhipa",
-    "contact": "9824177506",
-    "dob": "05/08/1972",
-    "member_since": "2017",
-    "participant_letter": "/assets/images/ramesh_c_rohit.jpg",
     "isElected": false,
     "role": ""
   },
@@ -208,19 +221,6 @@
     "role": ""
   },
   {
-    "name": "ashok",
-    "middle_name": "chhagan",
-    "surname": "rohit",
-    "gender": "male",
-    "area": "dadra",
-    "contact": "9898152794",
-    "dob": "07/07/1978",
-    "member_since": "-",
-    "participant_letter": "/assets/images/ashok_c_rohit.jfif",
-    "isElected": false,
-    "role": ""
-  },
-  {
     "name": "hashmukh",
     "middle_name": "dhiru",
     "surname": "rohit",
@@ -269,19 +269,6 @@
     "dob": "13/03/1974",
     "member_since": "-",
     "participant_letter": "/assets/images/jagu_m_rohit.jfif",
-    "isElected": false,
-    "role": ""
-  },
-  {
-    "name": "naresh",
-    "middle_name": "jina",
-    "surname": "rohit",
-    "gender": "male",
-    "area": "dadra demni",
-    "contact": "9979860072",
-    "dob": "05/08/1979",
-    "member_since": "2021",
-    "participant_letter": "/assets/images/naresh_j_rohit.jfif",
     "isElected": false,
     "role": ""
   },
